@@ -85,7 +85,7 @@ defmodule ExMagic do
   ## Examples
 
       iex> ExMagic.version()
-      529
+      537
   """
   @spec version() :: Integer.t
   def version() do
